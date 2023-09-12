@@ -1,5 +1,5 @@
 # Setting Up Characters
-All inspiration and most stats will be pulled from [here] (https://www.tribality.com/2015/11/27/adventure-time-for-dd-5e-part-1-species/). An abridged version will be below.
+All inspiration and most stats will be pulled from [here](https://www.tribality.com/2015/11/27/adventure-time-for-dd-5e-part-1-species/). An abridged version will be below.
 ## Species
 * Animal Person
 * Breakfast Person
