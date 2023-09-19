@@ -8,7 +8,7 @@ You can raise one ability score by 2 and another ability score by 1, but these s
 ## *Size*
 Small or Medium
 ## *Speed*
-30 ft
+30 ft and 30ft for either climbing/swimming based on type of animal
 ## *Skill Versatility* 
 You gain proficiency in two skills of your choice, but these should match the type of animal you are. 
 ## *Languages*
