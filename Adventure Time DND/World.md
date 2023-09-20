@@ -17,5 +17,5 @@ Run by punk Jake decendents.
 Floats high above the clouds, they worship glob. 
 ## Underworld
 Requires portal to get through, details in the show. 
-## Wizatrd City
+## Wizard City
 Wizards only fools.
