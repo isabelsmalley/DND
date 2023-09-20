@@ -1,15 +1,15 @@
 all information pulled from (here)[https://www.tribality.com/2015/11/27/adventure-time-for-dd-5e-part-1-species/]*
 # Animal Person
-Animal people come from all over the Land of Ooo. 
-They come in any shape or size and species that include bears, cats, dogs, pigs and cute little elephants.
-Animal people are a flexible option for you or your players to create anything that can talk on 2 legs (or even 4 in some cases).
+From the plains of ooo to the cusp of the desert of doom exist the Animal people. Animal people have gained the abilities of bipedalism and speech from the Great Mushroom War. Coming in all shapes and size they are able to adapt to many environments and thrive even after such cataclysmic events. Having such a diversity they are easy to understand and play for beginners in the Land of ooo. 
 ## *Ability Score Increase*
-You can raise one ability score by 2 and another ability score by 1, but these should match the type of animal you are.
+Due to their vast diversity animal people have very niche traits allowing them the ability to allocate +2 and +1 ability scores to any of their liking. 
 ## *Size*
-Small or Medium
+Small, Medium or Large
 ## *Speed*
-30 ft and 30ft for either climbing/swimming based on type of animal
+30 ft movement and 30ft climbing/swimming (*based on animal*)
 ## *Skill Versatility* 
-You gain proficiency in two skills of your choice, but these should match the type of animal you are. 
+Like each individual animals ability score they also have varitability in skills. Pick 2 skills to add proficiency to. (*please keep in mind that these skills should match your animal*)
 ## *Languages*
-You can speak, read and write Common and you can speak and understand the language of animals.
+You can speak, read and write Common 
+
+Can speak and understand the language of animals.
