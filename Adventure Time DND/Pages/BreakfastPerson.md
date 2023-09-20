@@ -1,11 +1,8 @@
 # Breakfast Person
-Breakfast people come from the Breakfast Kingdom in the Desert of Doom. 
-They come in any shape or size, such as an egg, bowl of cereal, strip of bacon or flapjack. 
-They function best in the mornings and are often high-strung due to the large amounts of coffee and sugar in their blood. 
-Their clothing and equipment will most often be made of breakfast food.
+From pancakes to pastries, these suagry delights are brought to life. Hailing the name of breakfast people they will always be up before you. Don't be mistakened by their cute looks, with coffee instead of blood these morning meals will get you before you realize it.  
 
 ## *Ability Score Increase*
-Making the most important meal of the day a priority, gives you wisdom and strength. Wisdom score increases by 2 and Strength score increases by 1.
+From an increased activity in the morning this brings up their mental age giving a boost in Wisdom (+2) and their crazy ability to never press snooze provides a Strength (+1). 
 
 ## *Size*
 Small or Medium
@@ -14,18 +11,17 @@ Small or Medium
 30 ft
 
 ## *Natural Healer*
-You have proficiency in the Medicine skill.
+Get slapped by bacon, Medicine skill proficiency.
 
-## *Early to Rise*
-In the morning you’re ready to take on the world, but by noon these effects have ended.
+## *Sun lover*
+When the sky is kissed by light breakfast people are the most lively of individuals. In the waking hours of the day breakfast people are readily awake and active, but when the light dies out so do their alertness.
 * You cannot be put to sleep by magic
-* You can’t be surprised  while you are conscious.
+* You can’t be surprised while you are conscious.
 * You gain a +5 bonus to initiative.
+(*effects active at sun up and inactive when the sun is down*) 
 
-## *Coffee Blood*
-You can draw on the caffeine in your blood to briefly become hyper aware of your surroundings, 
-gaining advantage on your next Perception (Wisdom) or Insight (Wisdom) check. 
-You can’t use this feature again until you finish a long rest.
+## *Caffeine Rich*
+Coffee is the bringer of life for the morning meals. Having embodied the life of the morning, their veins carry coffee instead of blood. When in the heat of battle coffee pressure goes up bringing your Wisdom score up (+2, after 4 turns). But every coffee rush is not without its crash. After 30 seconds of caffeine rich bring Wisdom score down (-2, from original). 
 
 ## *Languages*
 You can speak, read and write Common.
