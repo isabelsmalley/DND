@@ -16,4 +16,5 @@ When touched or hit superheat yourself to deal 1d10 fire damage in a 5ft radius.
 Enhance or reduce light produced by flame to cast a light in a 10-5ft radius
 # *Language*
 Can speak, read and write Common
-/nCan only speak Ancient flamion (*read and write come with scribe or scholar background*)
+
+Can only speak Ancient flamion (*read and write come with scribe or scholar background*)
