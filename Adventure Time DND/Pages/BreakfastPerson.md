@@ -19,7 +19,7 @@ When the sky is kissed by light breakfast people are the most lively of individu
 * You can’t be surprised while you are conscious
 * You gain a +5 bonus to initiative
 
-(*effects active at sun up and inactive when the sun is down*) 
+(*effects active when sun is up and inactive when the sun is down*) 
 
 ## *Caffeine Rich*
 Coffee is the bringer of life for the morning meals. Having embodied the life of the morning, their veins carry coffee instead of blood. When in the heat of battle coffee pressure goes up bringing your Wisdom score up (+2, after 4 turns). But every coffee rush is not without its crash. After 30 seconds of caffeine rich bring Wisdom score down (-2, from original). 
