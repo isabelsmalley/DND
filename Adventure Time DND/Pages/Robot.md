@@ -14,3 +14,10 @@ You are immune to disease.
 You do not need to eat or breathe, but you can pretend to eat food and drink if you wish, try not to make a mess. 
 Instead of sleeping, you enter an inactive state for 4 hours each day to recharge. 
 You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.
+## *Dial Up*
+When you need information on a topic, you can spend 10 minutes to access the Internet to look up any topic, gaining advantage on your next Intelligence (History) check. 
+You must be able to connect to the Internet and submit a query, which the Dungeon Master will respond to with results based on your roll.
+## *Languages*
+You can speak, read and write Common and Machine Language.
+
+
