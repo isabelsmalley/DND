@@ -22,11 +22,11 @@ When the sky is kissed by light breakfast people are the most lively of individu
 (*effects active when sun is up and inactive when the sun is down*) 
 
 ## *Caffeine Rich*
-Coffee is the bringer of life for the morning meals. Having embodied the life of the morning, their veins carry coffee instead of blood. When in the heat of battle coffee pressure goes up bringing your Wisdom score up (+2, after 4 turns). But every coffee rush is not without its crash. After 30 seconds of caffeine rich bring Wisdom score down (-2, from original). After 30 more seconds Wisdom is rest.
+Coffee is the bringer of life for the morning meals. Having embodied the life of the morning, their veins carry coffee instead of blood. When in the heat of battle coffee pressure goes up bringing your Wisdom score up (+2, after 4 turns). But every coffee rush is not without its crash. After 5 turns of caffeine rich bring Wisdom score down (-2, from original). After another 5 turns Wisdom is rest.
 
-* *skill resets after every combat and caffeine rich effect is decresed in time*
+* *skill resets after every combat, but caffeine rich effect is decresed by a turn after every combat*
 
-* *completely resets after short rest*
+* *skill completely resets to 5 turns after short rest*
 
 ## *Languages*
 You can speak, read and write Common.
