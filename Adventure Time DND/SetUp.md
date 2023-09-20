@@ -2,17 +2,17 @@
 All inspiration and most stats will be pulled from [here](https://www.tribality.com/2015/11/27/adventure-time-for-dd-5e-part-1-species/). An abridged version will be below.
 ## Species
 * [Animal Person](./Pages/AnimalPerson.md)
-* Breakfast Person
-* Candy Person
-* Cloud Person
-* Flame Person
-* Hot Dog
-* Human
-* Lemon Person
-* Lumpy Space Person
-* Nut Person
-* Rainicorn
-* Robot
+* [Breakfast Person](./Pages/BreakfastPerson.md)
+* [Candy Person](./Pages/CandyPerson.md)
+* [Cloud Person](./Pages/CloudPerson.md)
+* [Flame Person](./Pages/FlamePerson.md)
+* [Hot Dog](./Pages/HotDog.md)
+* [Human](./Pages/Human.md)
+* [Lemon Person](./Pages/LemonPerson.md)
+* [Lumpy Space Person](./Pages/LumpySpacePerson.md)
+* [Nut Person](./Pages/NutPerson.md)
+* [Rainicorn](./Pages/Ranicorn.md)
+* [Robot](./Pages/Robot.md)
 ## Classes
 * Barbarian
 * Bard
