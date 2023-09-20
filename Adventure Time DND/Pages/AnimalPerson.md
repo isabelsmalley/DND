@@ -1,6 +1,6 @@
 all information pulled from (here)[https://www.tribality.com/2015/11/27/adventure-time-for-dd-5e-part-1-species/]*
 # Animal Person
-From the plains of ooo to the cusp of the desert of doom exist the Animal people. Animal people have gained the abilities of bipedalism and speech from the Great Mushroom War. Coming in all shapes and size they are able to adapt to many environments and thrive even after such cataclysmic events. Having such a diversity they are easy to understand and play for beginners in the Land of ooo. 
+From the plains of ooo to the cusp of the Desert of Doom exist the Animal people. Animal people have gained the abilities of bipedalism and speech from the Great Mushroom War. Coming in all shapes and size they are able to adapt to many environments and thrive even after such cataclysmic events. Having such a diversity they are easy to understand and play for beginners in the Land of ooo. 
 ## *Ability Score Increase*
 Due to their vast diversity animal people have very niche traits allowing them the ability to allocate +2 and +1 ability scores to any of their liking. 
 ## *Size*
