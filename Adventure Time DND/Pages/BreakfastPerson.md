@@ -16,8 +16,9 @@ Get slapped by bacon, Medicine skill proficiency.
 ## *Sun lover*
 When the sky is kissed by light breakfast people are the most lively of individuals. In the waking hours of the day breakfast people are readily awake and active, but when the light dies out so do their alertness.
 * You cannot be put to sleep by magic
-* You can’t be surprised while you are conscious.
-* You gain a +5 bonus to initiative.
+* You can’t be surprised while you are conscious
+* You gain a +5 bonus to initiative
+
 (*effects active at sun up and inactive when the sun is down*) 
 
 ## *Caffeine Rich*
