@@ -45,12 +45,12 @@ Your choice grants you features at 3rd level and again at 6th, 10th, and 14th le
 * Ancestral Guardian
 * Battleranger
 * Beast
-* Rage Kyle
+* Party Bear Juice
 * Giant Boy
-* Anger Storm
+* Knife Storm
 * Doin it for Ya Boy
-* Crazy Magic
-* Believer
+* Prismo Pickles Got To Ya
+* Party GOOOODDDDDDD
 ## Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. 
 As normal, you can't increase an ability score above 20 using this feature.
