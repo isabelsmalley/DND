@@ -61,11 +61,11 @@ The extra Hit Points increase when you reach certain levels in this class: to 1d
 At 3rd level, you delve into the advanced techniques of a bard college of your choice. Your choice grants you features at 3rd level and again at 6th and 14th level.
 * Your Rhymes Make the Divine
 * Your Dictation Makes Great Oration
-* Your Looks are Ones For the Books
+* Master Baxter
 * The Lore and More
 * Donked Up Shit From Long Ago
-* Swords
-* James Baxter
+* Marauders
+* For those who crave the brave
 * The Evil Gives No Reprieval
 ## Expertise
 At 3rd level, choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses either of the chosen proficiencies.
