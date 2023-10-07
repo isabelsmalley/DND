@@ -10,9 +10,9 @@ Medium
 ## *Natural Athlete*
 You have proficiency in the Athletics skill.
 ## *Spacial Being*
-Being made of gasous molecules has it's advantages. Resistant to physical damage, but your body is dispersed. Use bonus action to reconfigure your body. When attacked with magic, if elemental, your attacks have elemental attributes. However, it has its disadvantages as well, vulnerable to force damage. 
+Being made of gasous molecules has it's advantages. Resistant to physical damage, but your body is dispersed. Use bonus action to reconfigure your body. When attacked with magic, if elemental, your attacks has elemental attributes. Deal elemental physical damage. However, it has its disadvantages as well, vulnerable to force damage. 
 
-*Force damage deals x2, Magic damage gives you elemental powers, and resistant to physical damage*
+*Force damage deals x2, Magic damage gives you physical elemental powers, and resistant to physical damage*
 ## *Float It Up*
 You can fly up to twice your fly speed, but you must land at the end of your turn. You can’t use this feature again until you finish a long rest.
 ## *Languages*
